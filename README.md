@@ -20,3 +20,4 @@ Configure the devices to meet the following requirements.
 
 =   Verify connectivity. R1, S1, and all PCs should be able to ping each other and the server.
 ![image](https://user-images.githubusercontent.com/128199477/226235763-331ad78f-52ec-432b-972b-17b50b443d05.png)
+![image](https://user-images.githubusercontent.com/128199477/226241481-684957b7-16fc-4c89-869a-4a8bfe9097ba.png)
